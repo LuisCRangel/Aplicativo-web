@@ -63,7 +63,7 @@ button:active {
   height: 17rem;
   display: inline-block;
   margin: 12px;
-  background-color: #ffffff;
+  background-color: #ffffff70;
   border-radius: 1rem;
   border: #212121 2.5px solid;
   transition: all 0.3s ease-in;
